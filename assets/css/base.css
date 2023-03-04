@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: 'Kanit', sans-serif;
+    scroll-behavior: smooth;
+}
+
+.clear {
+    clear: both;
+}
+
+.p1 {
+    position: absolute;
+}
+
+:root {
+    --white-color:#fff;
+}
+
+.hover-1 {
+    color:#000;
+    background-color: rgb(255, 197, 0);
+}
+
+.hover-2 {
+    color: #fff;
+    background-color: rgb(227, 24, 55);
+}
+
+.cs {
+    cursor: pointer;
+}
